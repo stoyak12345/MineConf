@@ -1,4 +1,4 @@
-![Logo](https://mineconf.neocities.org/mineconf.png)
+![Logo](https://mineconf.neocities.org/mineconf-season2.png)
 
 <div align="center"
 
